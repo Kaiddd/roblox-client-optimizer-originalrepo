@@ -1,1 +1,0 @@
-The VCRedist license can be read by opening the installer for it in the deps folder
